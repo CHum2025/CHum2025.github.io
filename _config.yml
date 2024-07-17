@@ -33,10 +33,10 @@ words_per_minute         : 200
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CHum Workshop
+title: CHum 2025
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the webpage of the Computational Humor Workshop @ COLING
+  1st Workshop on Computational Humor, held at COLING 2025
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
