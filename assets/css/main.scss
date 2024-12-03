@@ -81,3 +81,34 @@ search: false
     padding-top: 5px; /* Space between the title and the first line of the abstract */
     border-top: 1px solid #eee; /* Subtle separation from the title */
 }
+
+.program-header {
+    text-weight: bold;
+    background-color: $base01;
+    color: white;
+}
+
+.program-bookend {
+    text-weight: bold;
+    background-color: $base02;
+    color: white;
+}
+
+.program-keynote {
+    text-weight: bold;
+    background-color: $base03;
+    color: white;
+}
+
+.program-session {
+    text-weight: bold;
+    background-color: $base04;
+    color: white;
+}
+
+.program-break {
+    text-weight: bold;
+    background-color: $base05;
+    color: white;
+}
+
