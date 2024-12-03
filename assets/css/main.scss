@@ -95,12 +95,13 @@ search: false
 }
 
 .program-keynote {
-    text-weight: bold;
+    text-weight: bold !important;
     background-color: $base03;
     color: white;
 }
 
 .program-session {
+    text-align: center;
     text-weight: bold;
     background-color: $base04;
     color: white;
@@ -109,6 +110,8 @@ search: false
 .program-break {
     text-weight: bold;
     background-color: $base05;
-    color: white;
 }
 
+.program {
+    font-size: 100%;
+}
