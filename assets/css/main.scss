@@ -83,6 +83,7 @@ search: false
 }
 
 .program-header {
+    text-align: center;
     text-weight: bold;
     background-color: $base01;
     color: white;
@@ -95,7 +96,8 @@ search: false
 }
 
 .program-keynote {
-    text-weight: bold !important;
+    text-align: center;
+    text-weight: bold;
     background-color: $base03;
     color: white;
 }
