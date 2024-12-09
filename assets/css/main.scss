@@ -121,3 +121,11 @@ search: false
 .presenter {
     text-decoration: underline;
 }
+
+.abstract {
+    margin-top: 1ex;
+}
+
+.abstract::before {
+    content: "Abstract: ";
+}
