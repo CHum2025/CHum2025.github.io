@@ -8,9 +8,5 @@ main:
     url: "/committee.html"  # Link to your committee page
   - title: "Program"
     url: "/program.html"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Proceedings"
+    url: "https://aclanthology.org/events/ws-2025/#2025chum-1"
